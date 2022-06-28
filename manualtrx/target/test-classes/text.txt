@@ -1,0 +1,8 @@
+   Wait waiters = new Wait() {
+            @Override
+            public Object until(Function isTrue) {
+                return null;
+            }
+            Function istrue{};
+            ;
+        }
